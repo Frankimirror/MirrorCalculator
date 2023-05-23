@@ -2,8 +2,6 @@
 
 I have developed a highly functional calculator using HTML, CSS3, Bootstrap 5, and JavaScript. Through meticulous design and implementation, the calculator offers a seamless user experience and accurate calculations. The HTML provides the structure, CSS3 ensures an appealing and responsive interface, and Bootstrap 5 expedites development with its comprehensive component library. The JavaScript code includes event handling for real-time results and error handling for smooth operation. The result is a professional and feature-rich calculator that showcases my proficiency in web development technologies.
 
----
-
 # Hi, I'm Francmirror! 👋🏽
 
 I'm a student of all kinds of technologies, and I enjoy exploring new ideas and experimenting with different tools and platforms. I'm passionate about learning and sharing my knowledge with others, and I'm excited to connect with like-minded people on GitHub.
